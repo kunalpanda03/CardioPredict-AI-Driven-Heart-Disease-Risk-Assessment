@@ -1,4 +1,4 @@
-# CardioSense — Heart Disease Predictor
+# CardioPredict: AI-Driven Heart Disease Risk Assessment
 
 A compact, reproducible machine-learning project that predicts heart disease risk from clinical features using the UCI/Kaggle heart dataset.  
 The notebook compares multiple classifiers and demonstrates a K-Nearest Neighbors (KNN) model that achieves strong test accuracy.
